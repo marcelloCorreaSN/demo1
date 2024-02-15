@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<record_update>
+  <sys_certificate>
+    <active>true</active>
+    <expiration_notification>false</expiration_notification>
+    <expires>2025-02-07 01:47:32</expires>
+    <expires_in_days>365</expires_in_days>
+    <format>pem</format>
+    <issuer>C=US,CN=Demo</issuer>
+    <key_store_password/>
+    <name>code_signing_key_1005233212100210500aeedd3439af00</name>
+    <notify_on_expire/>
+    <pem_certificate>-----BEGIN CERTIFICATE-----
+MIIE/DCCAuSgAwIBAgIBATANBgkqhkiG9w0BAQsFADAcMQ0wCwYDVQQDDAREZW1v
+MQswCQYDVQQGEwJVUzAeFw0yNDAyMDgwNjQ3MzJaFw0yNTAyMDcwNjQ3MzJaMBwx
+DTALBgNVBAMMBERlbW8xCzAJBgNVBAYTAlVTMIICIjANBgkqhkiG9w0BAQEFAAOC
+Ag8AMIICCgKCAgEAvd4jocpeiNGhJ/8Ly2EwwBcHhcgdSqhobtYoUPFSkS2CJc0R
+bq1311EJNwfbkQ7h8GD3wj2NiPwUBWwctaEH25Gb2c6Ky5VuDt4DF6VwMEb19t/T
+0f+VJypnYkIYMtCubwA/ZfGjD410wBXviDVjeEP8l6GornPP+FQll4Z8G6eN8NT6
+jjdIri70CUfxaNOImu3LOrCpJaoNApv/rMM7rGqsnyDXpZ0RNPa6+ZJRW7BjlAag
+ohaS1T2hRaZc/1xlHclyzJpB+ZGkIH94cehkhEgV01O+Smad3rO6uEgolhr4TIuO
+7SxtN5EUwX8zQndfdWgSUjbccf+BK4vYSxXZ32FaUI1DOnIE6Au4UJJFiUHTwkVw
+HN0/uEViNJNwTQHLBfROPVzxHLKIyRCYchqc+P/XXNT0wfrtl0jm6aDwDH8sdt1R
+e9FFXAAChnWq8RrXh0jWWKaqKdXEzqM0clsvBi9x0QmVJN7thRX1q1uCkOEMsdGE
+slyCfHtLyxZFG8e0e3TzLcrsK46DRD08geV3EUqOu07LHfJdo5RhyUv8k5J2T60U
+i8z/BlaMabFVACamZ6Qs9eo8GR5+FJQly+GrSDao9xekJJp3rL86I2NgojMlqt3Q
+6wMygF39ioVvas9gKtmm9vKNF/NZamTwkInYTaqjE1/2PUHLDp4i3PB4caECAwEA
+AaNJMEcwDgYDVR0PAQH/BAQDAgeAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMB0G
+A1UdDgQWBBSaSL8Y32x1LKyoMCdWZ30elp2FnzANBgkqhkiG9w0BAQsFAAOCAgEA
+rRwbVv7xRSsWgmbAWHaqH1npTiZbgiiIIe/RPHKEaZTmvaAzynOOUs280Oo35a9y
+P8wO27jZlOu8enZfY+AlaeHRm6GKTXIbC1FOv66X5wSZXvb9vixsq3djH0ahLhKE
+6k1MjUTGYe1VmZ25SBSjbXqDaoCU7H1TgmkQm8prCSuYrZk0uqCoAqTyE5oP0kBj
+UpZSaVh9ShCL2Lidu9Uj0k/7Gm8YnlA4pOoZHkjUmb/lAhyqxAF7JQqQIf1u2Twb
+EXIYjUPSU16j1iOTccUHimuslTyvs5uACT906rkWzzDHDmFhT1SwDfHXMjcGichh
+G18ge7ANttoOcLW38Q80y1YfSb81Al+vOUBZx8dPRmftbCdv9NAaa1+IlgZgh4je
+FBXG4Obk1irUNwQPto/PqFnTIW2hdVXuSEY6eMn8sHQTh7MZjyLcoduZlJ3DTo+q
+pJ80zUSf/cs7K5UFj+V1t2qrTpTKdxXJ67YhmBpdh6DUr6w8icDA8DX/kahJ37uc
+JMCfG0LAKHv7qLk0I1YbGEZthGXnG/wSbQ+24QAOtpa4kgQuq/kAxxI4JBljN+q3
+GD9PUbLP7BzQv3n1Nc0c+EUJylFuiFbVtlz+ZcQpOsjngs7oZXjcMhDVRGZkKdfN
+dgaZNzoXnvpxv2huQEgxoSklG2Ruh21/MbpMji1nVGw=
+-----END CERTIFICATE-----
+</pem_certificate>
+    <short_description>Demo</short_description>
+    <subject>C=US,CN=Demo</subject>
+    <type>trust_store</type>
+    <valid_from>2024-02-08 01:47:32</valid_from>
+    <warn_in_days_to_expire>20</warn_in_days_to_expire>
+    <sys_class_name>sys_certificate</sys_class_name>
+    <sys_id>1005233212100210500aeedd3439af00</sys_id>
+    <sys_name/>
+    <sys_package>global</sys_package>
+    <sys_policy/>
+    <sys_scope>global</sys_scope>
+    <sys_update_name>sys_certificate_1005233212100210500aeedd3439af00</sys_update_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2024-02-15 15:27:12</sys_created_on>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2024-02-15 15:27:12</sys_updated_on>
+  </sys_certificate>
+</record_update>
